@@ -9,15 +9,15 @@ package edu.csbsju.cs;
  */
 public class SimplePrint {
 
-	private String pName;
+	private String myName;
 	private int pAge;
 	/**
-	 * @param pName
+	 * @param myName
 	 * @param pAge
 	 */
 	public SimplePrint(String pName, int pAge) {
 		super();
-		this.pName = pName;
+		this.myName = pName;
 		this.pAge = pAge;
 	}
 
